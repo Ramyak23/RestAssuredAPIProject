@@ -1,0 +1,1 @@
+{"uuid":"a7d014d2-a70b-4c16-bce7-68cacdeef5dd","name":"Scenario: Check if user able to retrieve a batch with invalid Program Id","children":["3bf4601e-3094-4a56-be43-1b967f9a6a60"],"befores":[],"afters":[],"start":1690407174646,"stop":1690407175150}

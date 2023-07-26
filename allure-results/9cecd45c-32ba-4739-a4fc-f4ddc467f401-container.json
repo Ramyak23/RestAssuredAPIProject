@@ -1,0 +1,1 @@
+{"uuid":"9cecd45c-32ba-4739-a4fc-f4ddc467f401","name":"Scenario: Check if user able to  create a submission  with valid endpoint and request body (non existing values)","children":["74bbc4b5-c402-40a9-a5a0-d8ebcfe730de"],"befores":[],"afters":[],"start":1690407193733,"stop":1690407194091}

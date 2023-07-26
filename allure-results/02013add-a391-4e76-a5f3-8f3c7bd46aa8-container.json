@@ -1,0 +1,1 @@
+{"uuid":"02013add-a391-4e76-a5f3-8f3c7bd46aa8","name":"Scenario: Check if user able to update a record with valid AssignmentID and missing mandatory fields request body","children":["27b63ab4-4c10-48a4-829d-b09d58783cac"],"befores":[],"afters":[],"start":1690407193103,"stop":1690407193395}

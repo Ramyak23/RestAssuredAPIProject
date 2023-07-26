@@ -1,0 +1,154 @@
+['INFO ]2023-07-26 07:40:19,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Program Module*****
+['INFO ]2023-07-26 07:40:23,977(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-New Program Created successfully
+['INFO ]2023-07-26 07:40:25,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Updated
+['INFO ]2023-07-26 07:40:26,968(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Deleted
+['INFO ]2023-07-26 07:40:32,001(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Batch Module*****
+['INFO ]2023-07-26 07:40:32,527(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Created
+['INFO ]2023-07-26 07:40:37,424(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Updated Successfully
+['INFO ]2023-07-26 07:40:38,408(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Deleted
+['INFO ]2023-07-26 07:40:38,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating User Module*****
+['INFO ]2023-07-26 07:40:42,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Created Successfully
+['INFO ]2023-07-26 07:40:47,230(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Updated Successfully
+['INFO ]2023-07-26 07:40:49,021(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Deleted
+['INFO ]2023-07-26 07:40:51,571(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Assignment Module*****
+['INFO ]2023-07-26 07:40:51,900(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Post Request Successful
+['INFO ]2023-07-26 07:40:56,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Updated Successfully
+['INFO ]2023-07-26 07:40:58,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Deleted Successfully
+['INFO ]2023-07-26 07:40:58,725(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating AssignmentSubmit Module*****
+['INFO ]2023-07-26 07:41:06,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Submit Updated Successfully
+['INFO ]2023-07-26 07:41:08,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-AssignmentSubmission Deleted Successfully
+['INFO ]2023-07-26 08:00:49,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Program Module*****
+['INFO ]2023-07-26 08:00:54,103(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-New Program Created successfully
+['INFO ]2023-07-26 08:00:55,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Updated
+['INFO ]2023-07-26 08:00:57,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Deleted
+['INFO ]2023-07-26 08:01:01,624(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Batch Module*****
+['INFO ]2023-07-26 08:01:02,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Created
+['INFO ]2023-07-26 08:01:08,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Updated Successfully
+['INFO ]2023-07-26 08:01:09,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Deleted
+['INFO ]2023-07-26 08:01:09,981(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating User Module*****
+['INFO ]2023-07-26 08:01:13,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Created Successfully
+['INFO ]2023-07-26 08:01:18,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Updated Successfully
+['INFO ]2023-07-26 08:01:20,080(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Deleted
+['INFO ]2023-07-26 08:01:23,131(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Assignment Module*****
+['INFO ]2023-07-26 08:01:23,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Post Request Successful
+['INFO ]2023-07-26 08:01:27,525(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Updated Successfully
+['INFO ]2023-07-26 08:01:28,984(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Deleted Successfully
+['INFO ]2023-07-26 08:01:29,619(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating AssignmentSubmit Module*****
+['INFO ]2023-07-26 08:01:37,525(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Submit Updated Successfully
+['INFO ]2023-07-26 08:01:39,925(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-AssignmentSubmission Deleted Successfully
+['INFO ]2023-07-26 08:10:36,666(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Program Module*****
+['INFO ]2023-07-26 08:10:41,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-New Program Created successfully
+['INFO ]2023-07-26 08:10:43,400(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Updated
+['INFO ]2023-07-26 08:10:44,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Deleted
+['INFO ]2023-07-26 08:10:49,812(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Batch Module*****
+['INFO ]2023-07-26 08:10:50,152(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Created
+['INFO ]2023-07-26 08:10:55,624(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Updated Successfully
+['INFO ]2023-07-26 08:10:56,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Deleted
+['INFO ]2023-07-26 08:10:57,180(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating User Module*****
+['INFO ]2023-07-26 08:11:00,335(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Created Successfully
+['INFO ]2023-07-26 08:11:06,367(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Updated Successfully
+['INFO ]2023-07-26 08:11:08,470(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Deleted
+['INFO ]2023-07-26 08:11:12,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Assignment Module*****
+['INFO ]2023-07-26 08:11:12,659(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Post Request Successful
+['INFO ]2023-07-26 08:11:17,879(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Updated Successfully
+['INFO ]2023-07-26 08:11:19,108(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Deleted Successfully
+['INFO ]2023-07-26 08:11:19,695(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating AssignmentSubmit Module*****
+['INFO ]2023-07-26 08:11:27,511(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Submit Updated Successfully
+['INFO ]2023-07-26 08:11:30,531(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-AssignmentSubmission Deleted Successfully
+['INFO ]2023-07-26 08:32:33,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Program Module*****
+['INFO ]2023-07-26 08:32:38,518(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-New Program Created successfully
+['INFO ]2023-07-26 08:32:40,693(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Updated
+['INFO ]2023-07-26 08:32:41,558(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Deleted
+['INFO ]2023-07-26 08:32:46,006(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Batch Module*****
+['INFO ]2023-07-26 08:32:46,392(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Created
+['INFO ]2023-07-26 08:32:51,554(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Updated Successfully
+['INFO ]2023-07-26 08:32:52,459(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Deleted
+['INFO ]2023-07-26 08:32:52,849(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating User Module*****
+['INFO ]2023-07-26 08:32:55,274(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Created Successfully
+['INFO ]2023-07-26 08:32:59,391(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Updated Successfully
+['INFO ]2023-07-26 08:33:01,100(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Deleted
+['INFO ]2023-07-26 08:33:03,900(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Assignment Module*****
+['INFO ]2023-07-26 08:33:04,215(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Post Request Successful
+['INFO ]2023-07-26 08:33:07,818(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Updated Successfully
+['INFO ]2023-07-26 08:33:09,311(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Deleted Successfully
+['INFO ]2023-07-26 08:33:09,907(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating AssignmentSubmit Module*****
+['INFO ]2023-07-26 08:33:17,216(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Submit Updated Successfully
+['INFO ]2023-07-26 08:33:19,831(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-AssignmentSubmission Deleted Successfully
+['INFO ]2023-07-26 10:07:12,177(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Program Module*****
+['INFO ]2023-07-26 10:07:16,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-New Program Created successfully
+['INFO ]2023-07-26 10:07:18,587(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Updated
+['INFO ]2023-07-26 10:07:23,982(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Batch Module*****
+['INFO ]2023-07-26 10:07:24,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Created
+['INFO ]2023-07-26 10:07:29,053(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Updated Successfully
+['INFO ]2023-07-26 10:07:29,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Deleted
+['INFO ]2023-07-26 10:07:30,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating User Module*****
+['INFO ]2023-07-26 10:07:31,720(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Created Successfully
+['INFO ]2023-07-26 10:07:36,315(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Updated Successfully
+['INFO ]2023-07-26 10:07:38,205(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Deleted
+['INFO ]2023-07-26 10:07:40,358(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Assignment Module*****
+['INFO ]2023-07-26 10:07:40,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Post Request Successful
+['INFO ]2023-07-26 10:07:43,626(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Updated Successfully
+['INFO ]2023-07-26 10:07:45,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Deleted Successfully
+['INFO ]2023-07-26 10:07:45,560(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating AssignmentSubmit Module*****
+['INFO ]2023-07-26 10:07:52,201(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Submit Updated Successfully
+['INFO ]2023-07-26 10:07:54,570(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-AssignmentSubmission Deleted Successfully
+['INFO ]2023-07-26 10:46:17,235(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Program Module*****
+['INFO ]2023-07-26 10:46:22,055(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-New Program Created successfully
+['INFO ]2023-07-26 10:46:23,957(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Updated
+['INFO ]2023-07-26 10:46:28,578(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Batch Module*****
+['INFO ]2023-07-26 10:46:29,091(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Created
+['INFO ]2023-07-26 10:46:33,348(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Updated Successfully
+['INFO ]2023-07-26 10:46:34,363(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating User Module*****
+['INFO ]2023-07-26 10:46:35,835(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Created Successfully
+['INFO ]2023-07-26 10:46:40,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Updated Successfully
+['INFO ]2023-07-26 10:46:42,048(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Deleted
+['INFO ]2023-07-26 10:46:44,684(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Assignment Module*****
+['INFO ]2023-07-26 10:46:45,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Post Request Successful
+['INFO ]2023-07-26 10:46:49,119(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Updated Successfully
+['INFO ]2023-07-26 10:46:50,336(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Deleted Successfully
+['INFO ]2023-07-26 10:46:50,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating AssignmentSubmit Module*****
+['INFO ]2023-07-26 10:46:56,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Submit Updated Successfully
+['INFO ]2023-07-26 10:46:59,054(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-AssignmentSubmission Deleted Successfully
+['INFO ]2023-07-26 10:46:59,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Deleted
+['INFO ]2023-07-26 10:47:00,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Deleted
+['INFO ]2023-07-26 10:47:00,115(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Delete Request Successful
+['INFO ]2023-07-26 11:29:13,344(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Program Module*****
+['INFO ]2023-07-26 11:29:17,915(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-New Program Created successfully
+['INFO ]2023-07-26 11:29:19,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Updated
+['INFO ]2023-07-26 11:29:25,325(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Batch Module*****
+['INFO ]2023-07-26 11:29:25,766(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Created
+['INFO ]2023-07-26 11:29:31,432(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Updated Successfully
+['INFO ]2023-07-26 11:29:32,065(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating User Module*****
+['INFO ]2023-07-26 11:29:34,404(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Created Successfully
+['INFO ]2023-07-26 11:29:39,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Updated Successfully
+['INFO ]2023-07-26 11:29:43,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Assignment Module*****
+['INFO ]2023-07-26 11:29:44,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Post Request Successful
+['INFO ]2023-07-26 11:29:48,747(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Updated Successfully
+['INFO ]2023-07-26 11:29:50,080(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Deleted Successfully
+['INFO ]2023-07-26 11:29:50,428(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating AssignmentSubmit Module*****
+['INFO ]2023-07-26 11:29:56,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Submit Updated Successfully
+['INFO ]2023-07-26 11:29:58,989(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-AssignmentSubmission Deleted Successfully
+['INFO ]2023-07-26 11:29:59,693(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Deleted
+['INFO ]2023-07-26 11:30:00,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Deleted
+['INFO ]2023-07-26 11:30:00,693(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Deleted
+['INFO ]2023-07-26 11:30:00,695(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Delete Request Successful
+['INFO ]2023-07-26 12:10:40,961(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Program Module*****
+['INFO ]2023-07-26 12:10:45,491(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-New Program Created successfully
+['INFO ]2023-07-26 12:10:47,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Updated
+['INFO ]2023-07-26 12:10:52,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Batch Module*****
+['INFO ]2023-07-26 12:10:52,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Created
+['INFO ]2023-07-26 12:10:57,099(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Updated Successfully
+['INFO ]2023-07-26 12:10:57,784(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating User Module*****
+['INFO ]2023-07-26 12:10:59,047(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Created Successfully
+['INFO ]2023-07-26 12:11:03,942(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Updated Successfully
+['INFO ]2023-07-26 12:11:08,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating Assignment Module*****
+['INFO ]2023-07-26 12:11:08,649(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Post Request Successful
+['INFO ]2023-07-26 12:11:12,986(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Updated Successfully
+['INFO ]2023-07-26 12:11:14,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*****Validating AssignmentSubmit Module*****
+['INFO ]2023-07-26 12:11:20,293(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Submit Updated Successfully
+['INFO ]2023-07-26 12:11:23,651(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-AssignmentSubmission Deleted Successfully
+['INFO ]2023-07-26 12:11:24,188(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Assignment Deleted Successfully
+['INFO ]2023-07-26 12:11:24,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Deleted
+['INFO ]2023-07-26 12:11:25,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Batch Deleted
+['INFO ]2023-07-26 12:11:25,588(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Program Deleted
+['INFO ]2023-07-26 12:11:25,590(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Delete Request Successful

@@ -1,0 +1,1 @@
+{"uuid":"fd05ba6c-71de-4177-a094-867567ca39e9","name":"Scenario: Check if user able to delete a submission with valid submission Id","children":["f7816cc0-2e6e-42ba-b495-d24dd435d522"],"befores":[],"afters":[],"start":1690407204276,"stop":1690407204794}

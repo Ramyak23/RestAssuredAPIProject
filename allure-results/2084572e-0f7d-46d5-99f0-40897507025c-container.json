@@ -1,0 +1,1 @@
+{"uuid":"2084572e-0f7d-46d5-99f0-40897507025c","name":"Scenario: Check if user able to delete a user with valid LMS API,invalid user Id","children":["b9f1b07e-88d5-468c-b495-94f33277705e"],"befores":[],"afters":[],"start":1690407185381,"stop":1690407185883}

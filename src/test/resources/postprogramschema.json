@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "programDescription": {
+      "type": "string"
+    },
+    "programName": {
+      "type": "string"
+    },
+    "programStatus": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "programDescription",
+    "programName",
+    "programStatus"
+  ]
+}

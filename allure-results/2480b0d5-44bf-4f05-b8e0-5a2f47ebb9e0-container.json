@@ -1,0 +1,1 @@
+{"uuid":"2480b0d5-44bf-4f05-b8e0-5a2f47ebb9e0","name":"Scenario: Check if user able to  assign user to program / batch with valid User Id and request body (missing field)","children":["d68ce25f-69fa-4643-989f-0a48188d8b83"],"befores":[],"afters":[],"start":1690407994591,"stop":1690407994914}

@@ -1,0 +1,1 @@
+{"uuid":"3d46e0b6-a314-4b8b-b5eb-83a92c0ba856","name":"Scenario: Check if user able to delete a Batch with valid LMS API,invalid batchID","children":["f5ef20ba-496f-4e03-bf4e-95c7c2f3b1d2"],"befores":[],"afters":[],"start":1690407984243,"stop":1690407984764}
