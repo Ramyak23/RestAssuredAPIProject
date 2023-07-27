@@ -1,0 +1,1 @@
+{"uuid":"ccc8fffe-9467-4c0a-b31d-3498f400d24e","name":"Scenario: Check if user able to retrieve a submission with valid batchID","children":["be7ca3f5-bbfa-4cba-8339-23e232862172"],"befores":[],"afters":[],"start":1690452505908,"stop":1690452506322}

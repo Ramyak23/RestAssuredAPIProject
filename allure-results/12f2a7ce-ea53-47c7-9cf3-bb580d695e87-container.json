@@ -1,0 +1,1 @@
+{"uuid":"12f2a7ce-ea53-47c7-9cf3-bb580d695e87","name":"Scenario: Check if user able to grade assignment with valid submission Id and missing mandatory request body","children":["5b4b3199-9cdd-46b5-a5ce-ec97b4f3843d"],"befores":[],"afters":[],"start":1690452509329,"stop":1690452509602}

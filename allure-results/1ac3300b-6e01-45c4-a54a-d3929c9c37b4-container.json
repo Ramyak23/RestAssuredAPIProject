@@ -1,0 +1,1 @@
+{"uuid":"1ac3300b-6e01-45c4-a54a-d3929c9c37b4","name":"Scenario: Check if user able to add a record missing mandatory fields in request body","children":["c704c2e7-fb11-49fe-a457-57f70b4b82ea"],"befores":[],"afters":[],"start":1690452496403,"stop":1690452496883}
